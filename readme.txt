@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is useful software.
+Git is a useful software.
